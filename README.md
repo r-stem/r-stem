@@ -1,24 +1,22 @@
-# Test Heading
+# Robert A. Stemmons
 
-## Test subheading
+Physics • Law • AI/ML – Bridging science, policy, and technology
 
-Test body text
+- Mphys, University of Oxford
+- MA Law, University of Law
+- MS Systems Engineering, MST (current)
 
+## Featured Work
 
+- [**Skyseek**](https://github.com/r-stem/skyseek) – A deep learning model for error & anomaly detection in the 18 million cosmological observations in the DESI dataset.
+- [**Regulation of Cryptocurrency**](https://r-stem.github.io/academic-work/blob/main/Regulation%20of%20Cryptocurrency%20(2023).pdf) – MA Law dissertation, proposing a regulatory framework that balances consumer protection with business freedom.
+- [**Radio Emissions of X-Ray Binaries**](https://github.com/r-stem/academic-work/blob/main/Radio%20Emissions%20of%20X-Ray%20Binaries%20(2018).pdf) – MPhys research paper, performing a meta-study to test applicability of the van der Laan model to X-ray binary systems.
 
-## Hi there 👋
+## Skills
 
-<!--
-**r-stem/r-stem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML, Python, Data Science, Research, Law of Technology
 
-Here are some ideas to get you started:
+## Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/robert-a-stemmons)
+- Email: rs5tp *at* mst.edu
