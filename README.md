@@ -1,7 +1,5 @@
 # Robert A. Stemmons
 
-Physics • Law • AI/ML – Bridging science, policy, and technology
-
 - Mphys, University of Oxford
 - MA Law, University of Law
 - MS Systems Engineering, MST (current)
